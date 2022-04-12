@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Header = () => {
+const About = () => {
     return (
         <div>
-            <h1>this is header</h1>
+            <h1>abot</h1>
         </div>
     );
 };
 
-export default Header;
+export default About;
